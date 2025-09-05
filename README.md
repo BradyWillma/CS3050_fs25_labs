@@ -1,1 +1,3 @@
-# CS3050_fs25_labs
+# CS3050 Labs and Demonstrations: Fall, 2025
+
+## Directory
